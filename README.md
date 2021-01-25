@@ -1,7 +1,7 @@
 # Machine Learning UWR 2020
 
 ## About
-Assigments and sylabus from Machine Learning @ University of Wrocław 2020 Class
+Assigments and syllabus from Machine Learning @ University of Wrocław 2020 Class
 
 ## Notebooks issue
 Sometimes jupyter notebooks doesn't render. Use this in case https://nbviewer.jupyter.org.
