@@ -54,7 +54,8 @@ Sometimes jupyter notebooks doesn't render. Use this in case https://nbviewer.ju
 #TODO
 
 ## Kaggle InClass Competition
-As part of Assignment 4, a kaggle competition was held, involving the use of feature selection methods to select the best features from corputed medical data
+As part of Assignment 4, a Kaggle Competition was held, involving the use of feature selection methods to select the best features from corputed medical data:
+
 https://www.kaggle.com/c/rank-the-features
 
 ## Aniki Cards
